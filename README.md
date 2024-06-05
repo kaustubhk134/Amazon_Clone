@@ -20,3 +20,7 @@ To view the project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/kaustubhk134/Amazon_Clone.git
+   
+![Screenshot 2024-06-06 003824](https://github.com/kaustubhk134/Amazon_Clone/assets/154357336/3bde49e8-1179-4d16-8ba3-276f2c217dfe)
+![Screenshot 2024-06-06 003807](https://github.com/kaustubhk134/Amazon_Clone/assets/154357336/f6eceff9-6872-4633-af7d-1974a757be63)
+
