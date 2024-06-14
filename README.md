@@ -1,4 +1,4 @@
-# Amazon Clon
+# Amazon Clone
 
 ## 🚀 Exciting News! 🚀
 
