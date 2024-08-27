@@ -4,7 +4,7 @@
 
 I am thrilled to announce that I've successfully created a clone of Amazon.com using HTML and CSS! This project has been an incredible learning experience, allowing me to deepen my understanding of front-end development and enhance my design skills. 🎨💻
 
-## 📈 Technologies Used:
+## 📈 Technologies Used
 
 - **HTML:** Structured the web page, allowing for dynamic content display and user interactions.
 - **CSS:** Styled the interface, creating an engaging and visually appealing user experience.
